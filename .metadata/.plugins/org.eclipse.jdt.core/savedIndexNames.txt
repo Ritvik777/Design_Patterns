@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+/Users/ritvik/Desktop/SPRING 2023/CSCI 250/project1/.metadata/.plugins/org.eclipse.jdt.core
+2147613891.index
+3304781969.index
+1865797976.index
